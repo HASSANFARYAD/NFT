@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
 
           <a
-            href="https://docs.mintbase.io/dev/getting-started" target="_blank"
+            href="https://docs.mintbase.io/dev/getting-started"
             className="mt-6 inline-block bg-white text-black no-underline px-4 py-3 hover:shadow-2xl"
           >
             Learn how
